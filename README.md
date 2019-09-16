@@ -1,1 +1,0 @@
-# xnomtechnology.github.io
