@@ -1,13 +1,14 @@
-<!doctype html>
-<html lang="en" data-beasties-container>
+export default `<!doctype html>
+<html lang="en" data-beasties-container="">
 <head>
   <meta charset="utf-8">
   <title>XnomApp</title>
-  <base href="/">
+  <base href="/xnom-app/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-5INURTSO.css"></head>
-<body>
+<body ngcm="">
   <app-root></app-root>
-<script src="main-S5BIBYHN.js" type="module"></script></body>
+<script src="main-4QDLBPUW.js" type="module"></script></body>
 </html>
+`;
